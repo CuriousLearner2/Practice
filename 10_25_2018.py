@@ -1,7 +1,7 @@
 
 """
 This code finds the number of occurrences of an element in a sorted list and
-stores the indices in found_dict.  Finds only the first occurrence.  For example 
+stores the indices in found_dict.  Finds only the first .  For example 
 
 Input: 
 
